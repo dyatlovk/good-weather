@@ -1,0 +1,7 @@
+﻿base     good-weather
+author   Kirill Dyatlov
+email    infow@kirill-dyatlov.ru
+date     2016-18-09
+name     good-weather template
+desc     Light template
+url      http://kirill-dyatlov.ru/works/good-weather
