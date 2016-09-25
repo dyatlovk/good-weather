@@ -6,3 +6,11 @@ Docuwiki light template without css framework.
 * Download and unpack master branch
 * Copy to DokuWiki tpl directory (/lib/tpl)
 * Login and activate template
+
+## How to add style for a single page
+The template parses page's root namespace and adds to body as class.
+Write your css rules in /user/screen.css.
+
+## How to inlcude another css file
+* Create css-file in /user/
+* Add path to your file at the end of [stylesheets] section
