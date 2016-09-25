@@ -12,5 +12,6 @@ The template parses page's root namespace and adds to body as class.
 Write your css rules in /user/screen.css.
 
 ## How to inlcude another css file
-* Create css-file in /user/
-* Add path to your file at the end of [stylesheets] section
+* Create css-file in /user/ -> https://github.com/dyatlovk/good-weather/tree/master/user
+* Add path to your file at the end of [stylesheets] section ->
+https://github.com/dyatlovk/good-weather/blob/master/style.ini#L50
