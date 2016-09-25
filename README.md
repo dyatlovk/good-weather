@@ -1,5 +1,8 @@
 # Good Weather
 Full liquid and light template for Docuwiki. Without css framework.
+
+Tested in Firefox 48 and Chrome 52
+
 ![screenshot_docuwiki](https://cloud.githubusercontent.com/assets/4923502/18818186/fd24adbe-8383-11e6-859c-7372a820107d.png)
 
 ## Installation
