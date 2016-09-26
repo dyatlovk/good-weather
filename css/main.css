@@ -67,6 +67,16 @@ pre {
 	border: 1px dotted black;
 }
 
+pre ~ pre {
+    margin: 0;
+    border-bottom: 0;
+}
+
+pre:last-of-type {
+    margin-bottom: 1em;
+    border-bottom: 1px dotted black;
+}
+
 .wrapper {
 	padding: 0 1em;
 	box-sizing: border-box;
